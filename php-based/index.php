@@ -1,4 +1,4 @@
-<html>
+<html lang="en" xml:lang="en" xmlns= "http://www.w3.org/1999/xhtml">
         <head>
         
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -13,7 +13,7 @@
         <script src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
 
         <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
-
+				<meta name="google" content="notranslate">
     </head>
 
 <body style="margin-top: 20px; background-color: white; text-align: center">
